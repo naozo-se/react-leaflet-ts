@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  height: 100vh;
+}
+
+header{
+  position: absolute;
+  width: 100%;
+  z-index: 1001;
+  text-align: right;
+}
+
+.leaflet-container {
+  width: 100vw;
+  height: 100vh;
+}
+
+.current-icon {
+  fill: #BB3333;
+}
+
+.location-icon {
+  fill: #3333BB;
+}
